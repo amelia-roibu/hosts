@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "Draghici Bianca"
+
 verify_ip() {
     local host_name=$1
     local ip_address=$2
